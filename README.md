@@ -1,4 +1,4 @@
-# OpenAPI Visualizer
+# OpenAPI Analyzer
 
 Простой визуализатор спецификаций OpenAPI с анализом безопасности эндпоинтов на базе ИИ (скоро)
 
@@ -40,7 +40,7 @@ OpenAPI Visualizer - это простой инструмент для визу�
 
 <a name="english"></a>
 
-# OpenAPI Visualizer
+# OpenAPI Analyzer
 
 Intelligent OpenAPI specification visualizer with AI-based endpoint security analysis.
 
